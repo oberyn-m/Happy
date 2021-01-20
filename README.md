@@ -1,6 +1,6 @@
 # Happy
 
-Uma maratona criada pela Rocketseat, para desenvolver um projeto que consiste em um site voltado para o cadastro de Orfanatos, sendo assim pessoas que querem fazer visitas em orfanatos irão pesquisas os mais próximos de sua localização.
+Uma maratona criada pela Rocketseat, para desenvolver um projeto que consiste em um site voltado para o cadastro de Orfanatos, sendo assim pessoas que querem fazer visitas em Orfanatos irão pesquisar os mais próximos de sua localização e assim o visitante encontra o local.
 
 
 ### 📋 Pré-requisitos
@@ -17,6 +17,7 @@ Este site foi constrúido com:
 * [HTML]
 * [CSS]
 * [JAVASCRIPT]
+* [LEAFLET]
 
 ## ✒️ Autor
 
