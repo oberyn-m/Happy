@@ -1,0 +1,26 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "Uma maratona criada pela Rocketseat, para desenvolver um projeto que consiste em um site voltado para o cadastro de Orfanatos, sendo assim pessoas que querem fazer visitas em Orfanatos irão pesquisar os mais próximos de sua localização e assim o visitante encontra o local.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oberyn-m/Happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oberyn-m/Happy/issues"
+  },
+  "homepage": "https://github.com/oberyn-m/Happy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.7",
+    "sqlite-async": "^1.1.1"
+  }
+}

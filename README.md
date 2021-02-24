@@ -18,6 +18,8 @@ Este site foi constrúido com:
 * [CSS]
 * [JAVASCRIPT]
 * [LEAFLET]
+* [SQLITE]
+* [HANDLEBARS]
 
 ## ✒️ Autor
 
